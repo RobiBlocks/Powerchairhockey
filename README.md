@@ -23,11 +23,24 @@
 
 ## 30.4.2024
 
-- [ ] Ich füge ein Bild von einem TTS3-Rollstuhl, den Link zum Hersteller Degonda und ein Video von Youtube über Powerchairhockey in meine Website ein.
-- [ ] Ich schaue folgendes Video zum Thema Layout in HTML und ich programmiere einen Header, einen Footer und sidebars auf meiner Website: [CSS website layout in 9 minutes! 🗺️ - YouTube](https://www.youtube.com/watch?v=Hsu8uqQTSV8)
-- [ ] Ich schaue folgendes Video und versuche mit CSS eine Navigation Bar zu programmieren: [How to create a CSS navigation bar in 6 minutes! 🧭 - YouTube](https://www.youtube.com/watch?v=f3uCSh6LIY0)
-- [ ] Ich mache aus meinen beiden Dateien eine GitHub page (Herrn Colic fragen)
+- [x] Ich füge ein Bild von einem TTS3-Rollstuhl, den Link zum Hersteller Degonda und ein Video von Youtube über Powerchairhockey in meine Website ein.
+- [x] Ich schaue folgendes Video zum Thema Layout in HTML und ich programmiere einen Header, einen Footer und sidebars auf meiner Website: [CSS website layout in 9 minutes! 🗺️ - YouTube](https://www.youtube.com/watch?v=Hsu8uqQTSV8)
+- [x] Ich schaue folgendes Video und versuche mit CSS eine Navigation Bar zu programmieren: [How to create a CSS navigation bar in 6 minutes! 🧭 - YouTube](https://www.youtube.com/watch?v=f3uCSh6LIY0)
+- [x] Ich mache aus meinen Dateien eine GitHub page (Herrn Colic fragen)
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich ein Bild, mehrere Links und ein YouTube-Video eingefügt. Danach habe ich mir ein Video zum Thema "Layout in HTML" angeschaut und einen Header, eine section, eine aside, einen article und einen Footer erstellt. Dabei habe ich padding und margin kennengelernt, um die Abstände richtig anzupassen. Anschliessend habe ich mit Szymon geschaut, wie man eine GitHub Page erstellt und es hta geklappt. Meine Website ist nun unter folgendem Link erreichbar: https://robiblocks.github.io/Hockey123/ . Zum Abschluss habe ich noch eine Navigation Bar programmiert. (50-100 Wörter)
+
+## 30.4.2024
+
+- [ ] 1
+  
+- [ ] 2
+  
+- [ ] 3
+  
+- [ ] 4
+  
+
+✍️ Heute habe ich...
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
