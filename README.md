@@ -34,9 +34,26 @@
 
 ## 07.4.2024
 
-- [ ] Ich erstelle eine HTML-Datei Namens "Teams" und verknüpfe die Navigation Bar mit ihr. In der "Teams"-Datei füge ich für jedes Team einen Titel hinzu und mache ein Bild vom Team in den Hintergrund (Video zu Bild in den Hintergrund: https://www.youtube.com/watch?v=_oFWg_NlKdo&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=25)
-- [ ] Ich erstelle in der Navigation Bar eine Drop-Down Liste und füge die Teams ein. Wenn man auf das Team klickt öffnet es die "Teams"-Datei und springt es via Seiteninternem Link zum passenden Team (VIdeo zu Drop-Down-Liste: https://www.youtube.com/watch?v=VQWu4e6agPc&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=30)
-- [ ] Ich hinterlege Favicons und page Titles (Video zu Favicons: https://www.youtube.com/watch?v=8iXHciqlAdA&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=6)
+- [x] Ich erstelle eine HTML-Datei Namens "Teams" und verknüpfe die Navigation Bar mit ihr. In der "Teams"-Datei füge ich für jedes Team einen Titel hinzu und mache ein Bild vom Team in den Hintergrund (Video zu Bild in den Hintergrund: https://www.youtube.com/watch?v=_oFWg_NlKdo&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=25)
+- [x] Ich erstelle in der Navigation Bar eine Drop-Down Liste und füge die Teams ein. Wenn man auf das Team klickt öffnet es die "Teams"-Datei und springt es via Seiteninternem Link zum passenden Team (Video zu Drop-Down-Liste: https://www.youtube.com/watch?v=VQWu4e6agPc&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=30)
+- [x] Ich hinterlege Favicons und page Titles (Video zu Favicons: https://www.youtube.com/watch?v=8iXHciqlAdA&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=6)
 - [ ] Ich füge zu jedem Team eine Tabelle hinzu und bearbeite diese mit Farbe und Rahmen (Video zum Thema Tabelle: https://www.youtube.com/watch?v=aNC6LY34yVM&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=10)
+
+✍️ Zwischen dem letzten Mal und heute habe ich die Navigation Bar erweitert und die neuen Abschnitte bereits mit den HTML-Dateien verlinkt. Heute habe ich um AP1 zu erfüllen zwei Hintergrundbilder eingefügt und positioniert. Das zweite AP hat mich heute am meisten Zeit geraubt. Ich habe das verlinkte Video geschaut und die Drop-Down-Liste erstellt und mit CSS designet und angepasst. Zum Abschluss habe ich nioch Favicons hinterlegt und bemerkt, dass ich die Titles schon geschaut habe. Für die Tabellen hatte ich heute keine Zeit mehr.
+
+☝️ Die Website ist erreichbar unter: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
+
+## 14.05.2024
+
+- [ ] Ich erstelle für das Team "zeka-Rollers" eine Tabelle, inwelcher die Spieler enthalten sein sollen. Dabei setze ich passende Tabellen-Headers.
+  
+- [ ] Ich passe die Grösse der Tabellenfelder an und experimentiere mit den Borders der Tabelle. Ich wende dabei auch Padding in der Tabelle an.
+  
+- [ ] In der Drop-Down-Liste der Teams füge ich für jedes Team ein passendes Emoji hinzu.
+  
+- [ ] AP4 folgt noch bis nächste Woche
+  
+
+Allgemeiner EInstieg in Tabellen in HTML (Video): [Learn HTML tables in 4 minutes! 📊 - YouTube](https://www.youtube.com/watch?v=aNC6LY34yVM&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=10)
 
 ✍️ Heute habe ich...
