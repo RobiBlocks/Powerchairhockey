@@ -45,15 +45,15 @@
 
 ## 14.05.2024
 
-- [ ] Ich erstelle für das Team "zeka-Rollers" eine Tabelle, inwelcher die Spieler enthalten sein sollen. Dabei setze ich passende Tabellen-Headers.
-  
-- [ ] Ich passe die Grösse der Tabellenfelder an und experimentiere mit den Borders der Tabelle. Ich wende dabei auch Padding in der Tabelle an.
-  
-- [ ] In der Drop-Down-Liste der Teams füge ich für jedes Team ein passendes Emoji hinzu.
-  
-- [ ] AP4 folgt noch bis nächste Woche
-  
+**Arbeitspakete:**
 
-Allgemeiner EInstieg in Tabellen in HTML (Video): [Learn HTML tables in 4 minutes! 📊 - YouTube](https://www.youtube.com/watch?v=aNC6LY34yVM&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=10)
+- [ ] Ich schaue folgendes Video: https://www.youtube.com/watch?v=aNC6LY34yVM&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=10) und erstelle für das Team "zeka-Rollers" eine Tabelle, inwelcher die Spieler enthalten sein sollen. Dabei setze ich passende Tabellen-Headers.
+  
+- [ ] Ich lese mich mit dieser Website noch tiefer in das Thema Tabellen ein: https://www.w3schools.com/html/html_tables.asp und passe die Grösse der Tabellenfelder an und experimentiere mit den Borders der Tabelle. Ich wende dabei auch Padding in der Tabelle an.
+  
+- [ ] Bei der Spalte, inwelcher steht welcher Spieler, welchen Schläger spielt, verbinde ich die Zeilen in der Spalte mit dem gleichen Inhalt.
+  
+- [ ] In der Drop-Down-Liste der Teams füge ich für jedes Team ein passendes Emoji hinzu. (Biene, Katze, Adler usw.)
+  
 
 ✍️ Heute habe ich...
