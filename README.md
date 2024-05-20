@@ -64,9 +64,9 @@
   
 - [ ] Ich stelle in Formspree ein, dass die Eingaben eines Benutzer bei der Anmeldung des Newletterauf meine private E-Mail Adresse gesendet werden.
   
-- [ ] Ich füge drei Turnhallen mit Adresse, Foto und Lage auf google Maps Hallen Location
+- [ ] Ich füge drei Turnhallen mit Adresse, Foto und Lage auf google Maps ein.
   
-- [ ] Wir beginnen am Freitag mit javaScript. Dieses Arbeitspaket soll JavaScript behandeln. Arbeitspaket folgt noch...
+- [ ] Ich verlinke die Hallen bei den aktuellen Spieltagen. (Auch mit Bookmark)
   
 
 ✍️ Heute habe ich...
