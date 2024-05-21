@@ -60,13 +60,28 @@
 
 ## 21.05.2024
 
-- [ ] Ich schaue folgendes Videos zu Inputs und erstelle ein Formular für einen Powerchairhockey Newsletter: [Learn HTML forms in 10+ minutes! 📝 - YouTube](https://www.youtube.com/watch?v=zIN54lhJtQU)
+- [x] Ich schaue folgendes Videos zu Inputs und erstelle ein Formular für einen Powerchairhockey Newsletter: [Learn HTML forms in 10+ minutes! 📝 - YouTube](https://www.youtube.com/watch?v=zIN54lhJtQU)
   
-- [ ] Ich stelle in Formspree ein, dass die Eingaben eines Benutzer bei der Anmeldung des Newletterauf meine private E-Mail Adresse gesendet werden.
+- [x] Ich stelle in Formspree ein, dass die Eingaben eines Benutzer bei der Anmeldung des Newletterauf meine Schul-E-Mail Adresse gesendet werden.
   
-- [ ] Ich füge drei Turnhallen mit Adresse, Foto und Lage auf google Maps ein.
+- [x] Ich füge zwei Turnhallen mit Adresse, Foto und Lage auf Google Maps ein.
   
-- [ ] Ich verlinke die Hallen bei den aktuellen Spieltagen. (Auch mit Bookmark)
+- [x] Ich verlinke die Hallen bei den aktuellen Spieltagen. (Auch mit Bookmark)
+  
+
+✍️ Heute habe ich als erstes das Video zu Formularen angeschaut. Anschliessend habe ich direkt den Newsletter für meine Website erstellt und gestaltet. Danach konnte ich mit Formspree einrichten, dass die Informationen der Anmeldungen an meine BBB e-Mail Adresse weitergeleitet wird. Nach einer erholsamen Pause habe ich unter "Hallen" zwei Turnhallen hinzugefügt. Man sieht einen Namen, ein Foto und die Lage auf Google Maps. Zudem kann man jetzt auf der Seite "Home" bei "Anstehendes" nun auf den Ort klicken und man kommt zur passenden Halle per Bookmark unter "Hallen". Ausserdem ist nun auf jeder Seite der Footer zu sehen. (98 Wörter)
+
+☝️ Die neue Adresse der Website lautet: [Powerchairhockey - Home](https://robiblocks.github.io/Powerchairhockey/)
+
+## 28.05.2024
+
+- [ ] 1
+  
+- [ ] 2
+  
+- [ ] 3
+  
+- [ ] 4
   
 
 ✍️ Heute habe ich...
