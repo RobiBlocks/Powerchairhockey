@@ -1,4 +1,4 @@
-# Lern-Periode 5
+Lern-Periode 5
 
 23.4 bis 25.6.2024
 
@@ -75,13 +75,13 @@
 
 ## 28.05.2024
 
-- [ ] 1
+- [ ] Ich schaue folgendes Video: [Learn CSS pagination in 8 minutes! 🕮 - YouTube](https://www.youtube.com/watch?v=6ff96BkWqmg) und erstelle für die Unterseite "Spieltage" mehrere Seiten und eine Seitennummerierung. Auf jeder Seite soll es einen Spieltag geben.
   
-- [ ] 2
+- [ ] Ich schaue folgendes Video zu Flexbox: [Learn CSS flexbox in 10 minutes! 💪 - YouTube](https://www.youtube.com/watch?v=GteJWhCikCk&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=36) und erstelle damit die verschiedenen Seiten unter "Spieltage". Es soll für jeden Spieltag ein eigenes Feld existieren. Drei untereinander auf jeder Seite.
   
-- [ ] 3
+- [ ] Ich schaue folgendes Video: [Learn CSS transformations in 9 minutes! 🔄 - YouTube](https://www.youtube.com/watch?v=qdeIy9_fbxE&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=37) und erstelle in der neu zu erstellenden Seite "Spass" einen kleinen und einen grossen Rollstuhl, einen dünnen und einen dicken Rollstuhl, einen auf dem Kopf stehenden Rollstuhl und einen schrägen Rollstuhl
   
-- [ ] 4
+- [ ] Ich schaue folgendes Video: [Learn CSS animations in 15 minutes! 🎬 - YouTube](https://www.youtube.com/watch?v=u_GIT5MJAtc&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=38) und erstelle unter "Spass" einen Rollstuhl der von links nach rechts fährt, umdreht usw. einen Rollstuhl der immer dicker und dünner wird und einen Rollstuhl der sich die ganze Zeit dreht.
   
 
 ✍️ Heute habe ich...
