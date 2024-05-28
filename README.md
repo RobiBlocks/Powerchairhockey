@@ -56,7 +56,7 @@ Lern-Periode 5
 
 ✍️ Heute habe ich vor allem an Tabellen gearbeitet. Ich habe sie mit Daten über Spieler des Teams befüllt, mit der Border experimentiert, die Border gestaltet und sie positioniert und ausgerichtet. Danach habe ich Zellen mit gleichem Inhalt verbunden. Zum Abschluss habe ich angeschaut, wie man Emojis verwendet. Ich habe herausgefunden, dass Emojis einfache Zeichen sind. (55 Wörter)
 
-☝️ Den Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
+☝️ Der Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
 
 ## 21.05.2024
 
@@ -86,7 +86,7 @@ Lern-Periode 5
 
 ✍️ Heute habe ich vor allem an der Unterseite "Spieltage" gearbeitet. Ich habe zuerst das Video geschaut und eine Seitennummerierung mit drei Seiten erstellt. Zudem musste ich die Tabellen, welche unter "Spieltage" waren, in die neu erstellte Seite "Resultate" einfügen. Nach dem Input von Herrn Colic zum Thema "CSS Variablen" habe ich bei Coolors.co folgendes Farbschema erzeugt: [Create a Palette - Coolors](https://coolors.co/d8ebfd-7692ff-1c2dc4-3d518c-081236). Anschliessend habe ich mir angeschaut, wie flexbox funktioniert und habe Quadrate für die einzelnen Spieltage erstellt und positioniert. Da ich am Schluss nur noch etwa 10min hatte, habe ich das Farbschema auf die ganze Website angewendet. (97 Wörter)
 
-☝️ Den Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
+☝️ Der Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
 
 ## 04.06.2024
 
