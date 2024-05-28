@@ -75,13 +75,46 @@ Lern-Periode 5
 
 ## 28.05.2024
 
-- [ ] Ich schaue folgendes Video: [Learn CSS pagination in 8 minutes! 🕮 - YouTube](https://www.youtube.com/watch?v=6ff96BkWqmg) und erstelle für die Unterseite "Spieltage" mehrere Seiten und eine Seitennummerierung. Auf jeder Seite soll es einen Spieltag geben.
+- [x] Ich schaue folgendes Video: [Learn CSS pagination in 8 minutes! 🕮 - YouTube](https://www.youtube.com/watch?v=6ff96BkWqmg) und erstelle für die Unterseite "Spieltage" mehrere Seiten und eine Seitennummerierung. Die nun in "Spieltage" eingebetetten Resultate mache ich in eine Unterseite Resultate.
   
-- [ ] Ich schaue folgendes Video zu Flexbox: [Learn CSS flexbox in 10 minutes! 💪 - YouTube](https://www.youtube.com/watch?v=GteJWhCikCk&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=36) und erstelle damit die verschiedenen Seiten unter "Spieltage". Es soll für jeden Spieltag ein eigenes Feld existieren. Drei untereinander auf jeder Seite.
+- [x] Ich schaue folgendes Video zu Flexbox: [Learn CSS flexbox in 10 minutes! 💪 - YouTube](https://www.youtube.com/watch?v=GteJWhCikCk&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=36) und erstelle damit die verschiedenen Seiten unter "Spieltage". Es soll für jeden Spieltag ein eigenes Feld existieren. Fünf untereinander auf jeder Seite.
   
 - [ ] Ich schaue folgendes Video: [Learn CSS transformations in 9 minutes! 🔄 - YouTube](https://www.youtube.com/watch?v=qdeIy9_fbxE&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=37) und erstelle in der neu zu erstellenden Seite "Spass" einen kleinen und einen grossen Rollstuhl, einen dünnen und einen dicken Rollstuhl, einen auf dem Kopf stehenden Rollstuhl und einen schrägen Rollstuhl
   
 - [ ] Ich schaue folgendes Video: [Learn CSS animations in 15 minutes! 🎬 - YouTube](https://www.youtube.com/watch?v=u_GIT5MJAtc&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=38) und erstelle unter "Spass" einen Rollstuhl der von links nach rechts fährt, umdreht usw. einen Rollstuhl der immer dicker und dünner wird und einen Rollstuhl der sich die ganze Zeit dreht.
   
 
-✍️ Heute habe ich...
+✍️ Heute habe ich vor allem an der Unterseite "Spieltage" gearbeitet. Ich habe zuerst das Video geschaut und eine Seitennummerierung mit drei Seiten erstellt. Zudem musste ich die Tabellen, welche unter "Spieltage" waren, in die neu erstellte Seite "Resultate" einfügen. Nach dem Input von Herrn Colic zum Thema "CSS Variablen" habe ich bei Coolors.co folgendes Farbschema erzeugt: [Create a Palette - Coolors](https://coolors.co/d8ebfd-7692ff-1c2dc4-3d518c-081236). Anschliessend habe ich mir angeschaut, wie flexbox funktioniert und habe Quadrate für die einzelnen Spieltage erstellt und positioniert. Da ich am Schluss nur noch etwa 10min hatte, habe ich das Farbschema auf die ganze Website angewendet. (97 Wörter)
+
+☝️ Den Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
+
+## 04.06.2024
+
+- [ ] Ich erstelle als Repetition in der Unterseite "Spass" neun Quadrate und ordne sie mithilfe von flexbox in einem 3x3 Muster an.
+
+- [ ] Ich schaue folgendes Video: [Learn CSS transformations in 9 minutes! 🔄 - YouTube](https://www.youtube.com/watch?v=qdeIy9_fbxE&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=37) und erstelle in der Unterseite "Spass" einen ... Rollstuhl
+  
+  - [ ] geschrumpften
+    
+  - [ ] gewachsenen
+    
+  - [ ] schmalen
+    
+  - [ ] breiten
+    
+  
+  - [ ] schrägen
+    
+  
+  - [ ] umgrehten
+    
+- [ ] Ich schaue folgendes Video: [Learn CSS animations in 15 minutes! 🎬 - YouTube](https://www.youtube.com/watch?v=u_GIT5MJAtc&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=38) und erstelle unter "Spass" einen Rollstuhl der...
+  
+  - [ ] von links nach rechts fährt
+    
+  - [ ] immer dicker und dünner wird
+    
+  - [ ] sich die ganze Zeit dreht
+    
+
+- [ ] Ich erstelle ein Mockup für meine Website für M293. Das Thema ist japanische Kultur, Lage von Japan, Tiere und Sehenswürdigkeiten in Japan. Dabei entscheide ich über Farben, Abstände, Bereiche, Titel und Position von Grafiken.
