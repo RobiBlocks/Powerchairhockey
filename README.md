@@ -90,31 +90,40 @@ Lern-Periode 5
 
 ## 04.06.2024
 
-- [ ] Ich erstelle als Repetition in der Unterseite "Spass" neun Quadrate und ordne sie mithilfe von flexbox in einem 3x3 Muster an.
+- [x] Ich erstelle als Repetition in der Unterseite "Spass" neun Quadrate und ordne sie mithilfe von flexbox in einem 3x3 Muster an.
+  
+- [x] Ich schaue folgendes Video: [Learn CSS transformations in 9 minutes! 🔄 - YouTube](https://www.youtube.com/watch?v=qdeIy9_fbxE&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=37) und erstelle in der Unterseite "Spass" einen ... Rollstuhl
+  
+  - [x] geschrumpften
+    
+  - [x] gewachsenen
+    
+  - [x] schmalen
+    
+  - [x] breiten
+    
+  - [x] schrägen
+    
+  - [x] umgrehten
+    
+- [x] Ich schaue folgendes Video: [Learn CSS animations in 15 minutes! 🎬 - YouTube](https://www.youtube.com/watch?v=u_GIT5MJAtc&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=38) und erstelle unter "Spass" einen Rollstuhl der...
+  
+  - [x] von links nach rechts fährt
+    
+  - [x] immer dicker und dünner wird
+    
+  - [x] sich die ganze Zeit dreht
+    
+- [ ] Ich erstelle ein Mockup für meine Website für M293. Das Thema ist japanische Kultur, Lage von Japan, Tiere und Sehenswürdigkeiten in Japan. Dabei entscheide.
+  
 
-- [ ] Ich schaue folgendes Video: [Learn CSS transformations in 9 minutes! 🔄 - YouTube](https://www.youtube.com/watch?v=qdeIy9_fbxE&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=37) und erstelle in der Unterseite "Spass" einen ... Rollstuhl
-  
-  - [ ] geschrumpften
-    
-  - [ ] gewachsenen
-    
-  - [ ] schmalen
-    
-  - [ ] breiten
-    
-  
-  - [ ] schrägen
-    
-  
-  - [ ] umgrehten
-    
-- [ ] Ich schaue folgendes Video: [Learn CSS animations in 15 minutes! 🎬 - YouTube](https://www.youtube.com/watch?v=u_GIT5MJAtc&list=TLPQMjEwNTIwMjQ9VIn9Q96IAQ&index=38) und erstelle unter "Spass" einen Rollstuhl der...
-  
-  - [ ] von links nach rechts fährt
-    
-  - [ ] immer dicker und dünner wird
-    
-  - [ ] sich die ganze Zeit dreht
-    
+✍️ Heute habe ich als Repetition zum Start mithilfe von display: flex die Grundlage für heute geschaffen. Dabei habe ich die wichtigen Befehle in einer Markdown-Datei aufgeschrieben. Nach der kleinen Pause habe ich verschiedene Rollstühle erstellt. Solche die sich nicht bewegen (mit transformations) und solche die sich bewegen (mit animations). Nach der zweiten Pause habe ich mit meinem Mockup begonnen. Ich habe mich entschieden zuerst die Handyansicht zu designen. Allerdings wurde ich nicht ganz fertig mit dieser Ansicht. Es fehlen die Texte in der navbar. Mit der Computer Ansicht habe ich noch nicht gestartet. (93 Wörter)
 
-- [ ] Ich erstelle ein Mockup für meine Website für M293. Das Thema ist japanische Kultur, Lage von Japan, Tiere und Sehenswürdigkeiten in Japan. Dabei entscheide ich über Farben, Abstände, Bereiche, Titel und Position von Grafiken.
+- [ ] Ich schaue folgendes Video zum Thema Grid: [Learn CSS Grid - A 13 Minute Deep Dive - YouTube](https://www.youtube.com/watch?v=EiNiSFIPIQE) und designe dann mithilfe von display: grid die Unterseite "Turnier" auf meiner "Powerchairhockey"-Website
+  
+
+- [ ] Ich designe ein Mockup für die Computer Ansicht der "Japan erkunden"-Website.
+  
+- [ ] Ich implementiere die Startseite der "Japan erkunden"-Website
+  
+- [ ] Letzes Arbeitspaket folgt bis nächsten Dienstag
