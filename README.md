@@ -114,19 +114,35 @@ Lern-Periode 5
     
   - [x] sich die ganze Zeit dreht
     
-- [ ] Ich erstelle ein Mockup für meine Website für M293. Das Thema ist japanische Kultur, Lage von Japan, Tiere und Sehenswürdigkeiten in Japan. Dabei entscheide.
+- [ ] Ich erstelle ein Mockup für meine Website für M293. Das Thema ist japanische Kultur, Lage von Japan, Tiere und Sehenswürdigkeiten in Japan.
   
 
 ✍️ Heute habe ich als Repetition zum Start mithilfe von display: flex die Grundlage für heute geschaffen. Dabei habe ich die wichtigen Befehle in einer Markdown-Datei aufgeschrieben. Nach der kleinen Pause habe ich verschiedene Rollstühle erstellt. Solche die sich nicht bewegen (mit transformations) und solche die sich bewegen (mit animations). Nach der zweiten Pause habe ich mit meinem Mockup begonnen. Ich habe mich entschieden zuerst die Handyansicht zu designen. Allerdings wurde ich nicht ganz fertig mit dieser Ansicht. Es fehlen die Texte in der navbar. Mit der Computer Ansicht habe ich noch nicht gestartet. (93 Wörter)
 
-- [ ] Ich schaue folgendes Video zum Thema Grid: [Learn CSS Grid - A 13 Minute Deep Dive - YouTube](https://www.youtube.com/watch?v=EiNiSFIPIQE) und designe dann mithilfe von display: grid die Unterseite "Turnier" auf meiner "Powerchairhockey"-Website
-  
+## 11.06.2024
 
-- [ ] Ich designe ein Mockup für die Computer Ansicht der "Japan erkunden"-Website.
+- [x] Ich schaue folgendes Video zum Thema Grid: [Learn CSS Grid - A 13 Minute Deep Dive - YouTube](https://www.youtube.com/watch?v=EiNiSFIPIQE) und designe dann mithilfe von display: grid die Unterseite "Turnier" auf meiner "Powerchairhockey"-Website
+  
+- [x] Ich designe ein Mockup für die Computer Ansicht der "Japan erkunden"-Website.
   
 - [ ] Ich implementiere die Startseite der "Japan erkunden"-Website
   
-- [ ] Letzes Arbeitspaket folgt bis nächsten Dienstag
+- [ ] Letzes Arbeitspaket folgt bis nächsten Dienstag (vergessen)
   
 
 ☝️ Der Code ist in folgendem Repository: [GitHub - RobiBlocks/Hockey123](https://github.com/RobiBlocks/Hockey123)
+
+✍️ Heute habe ich 20min später begonnen zu arbeiten, da ich bei meinen zweiten Bildschirm die Helligkeit anpassen musste, weshalb ich die erste Pause durchgearbeitet habe. Als erstes habe ich das Video zum Thema Grid angeschaut und dann sechs Rechtecke angeordnet. Da ich auf einige Probleme gestossen bin habe ich viel zu lange daran gearbeitet. Im Anschluss habe ich an mein Mockup fertiggestellt. Anschliessend habe ich mein Pflichtenheft erstellt, die Fotos der beiden Mockups eingefügt und die Machbarkeit eingeschätzt. (72 Wörter)
+
+### 18.06.2024
+
+- [ ] Ich erstelle (als Übung) für das Powerchairhockey Team Cyber Falcons ein Mockup für eine Website. Zuerst für das Handy und dann für den Desktop.
+  
+- [ ] Ich implementiere die Startseite für die Website des Teams (mithilfe eines Grids)
+  
+- [ ] Ich implementiere die Seite Spieler für die Spieler des Teams (mithilfe von Flexbox)
+  
+- [ ] Ich implementiere die Seite Spieltage für die einzelnen Spieltage (mithilfe von Flexbox)
+  
+
+✍️ Heute habe ich...
