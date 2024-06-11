@@ -1,0 +1,19 @@
+#halle-lenzburg{
+    background-color: hsl(240, 100%, 15%);
+}
+#halle-wallisellen{
+    background-color: hsl(0, 100%, 15%);
+}
+#halle-st.gallen{
+    background-color: hsl(120, 100%, 25%);
+}
+.halle{
+    color: white;
+    padding: 20px;
+}
+iframe{
+    width: 100%;
+}
+h2{
+    padding-bottom: 10px;
+}
