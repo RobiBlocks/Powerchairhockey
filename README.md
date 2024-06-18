@@ -134,12 +134,21 @@ Lern-Periode 5
 
 ✍️ Heute habe ich 20min später begonnen zu arbeiten, da ich bei meinen zweiten Bildschirm die Helligkeit anpassen musste, weshalb ich die erste Pause durchgearbeitet habe. Als erstes habe ich das Video zum Thema Grid angeschaut und dann sechs Rechtecke angeordnet. Da ich auf einige Probleme gestossen bin habe ich viel zu lange daran gearbeitet. Im Anschluss habe ich an mein Mockup fertiggestellt. Anschliessend habe ich mein Pflichtenheft erstellt, die Fotos der beiden Mockups eingefügt und die Machbarkeit eingeschätzt. (72 Wörter)
 
-### 18.06.2024
+## 18.06.2024
 
-- [ ] Ich erstelle (als Übung) für das Powerchairhockey Team Cyber Falcons ein Mockup für eine Website. Zuerst für das Handy und dann für den Desktop.
+- [x] Ich erstelle (als Übung) für das Powerchairhockey Team Cyber Falcons ein Mockup für eine Website. Zuerst für das Handy und dann für den Desktop.
   
-- [ ] Ich implementiere die Startseite für die Website des Teams (mithilfe eines Grids)
+- [x] Ich implementiere die Startseite für die Website des Teams (mithilfe eines Grids)
   
+- [ ] Ich implementiere die Seite Spieler für die Spieler des Teams (mithilfe von Flexbox)
+  
+- [ ] Ich implementiere die Seite Spieltage für die einzelnen Spieltage (mithilfe von Flexbox)
+  
+
+✍️ Heute habe ich ein Mockup für die Website für die Cyber Falcons erstellt. Ich habe zuerst mit ihrem Logo eine passende Farbpalette erstellt. Danach habe ich die Bereiche skizziert und die Grössen dazugeschrieben. Anschliessend habe ich die Startseite für Smartphone und Desktop implentiert. Die Website passt sich an die Gerätegrösse an und verändert sich dynamisch. Die navbar habe ich mit flex anstatt wie sonst mit block angepasst. (67 Wörter)
+
+## 25.06.2024
+
 - [ ] Ich implementiere die Seite Spieler für die Spieler des Teams (mithilfe von Flexbox)
   
 - [ ] Ich implementiere die Seite Spieltage für die einzelnen Spieltage (mithilfe von Flexbox)
