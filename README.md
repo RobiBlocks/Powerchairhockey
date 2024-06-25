@@ -149,9 +149,9 @@ Lern-Periode 5
 
 ## 25.06.2024
 
-- [ ] Ich implementiere die Seite Spieler für die Spieler des Teams (mithilfe von Flexbox)
+- [ ] Ich implementiere die Seiten Regionen und Tiere für die Japan erkunden Webseite
   
-- [ ] Ich implementiere die Seite Spieltage für die einzelnen Spieltage (mithilfe von Flexbox)
+- [ ] Ich implementiere die Seiten Kulinarik und Schrift für die Japan erkunden Webseite
   
 
 ✍️ Heute habe ich...
