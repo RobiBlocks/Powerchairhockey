@@ -6,7 +6,7 @@
 
 Auf der "Powerchairhockey" Website gibt es eine navbar, die sich auf dem Handy stapelt. Bei den Menüpunkten Teams und Hallen gibt es eine Dropdown-Liste, die auf der jeweiligen Seite auf die passende Höhe springt. In der Seite Team ist eine Tabelle enthalten. Die beiden Seiten Turniere und Resultate wurden mit flexbox erstellt. Unter Spass habe ich Bilder verkleinert, verdickert usw. Es sind sogar kleine Animationen enthalten, wie ein Powerchair, der von links nach rechts fährt.
 
-![PowerchairhockeyWebsitegif](file://C:\Users\robin\OneDrive%20-%20BBBaden\Lernatelier\Lernperiode%205\PowerchairhockeyWebsite.gif?msec=1719302737004)
+![PowerchairhockeyWebsitegif](https://github.com/RobiBlocks/Lern-Periode-5/blob/main/Pictures/PowerchairhockeyWebsite.gif)
 
 ![](file://C:\Users\robin\AppData\Roaming\marktext\images\2024-06-25-09-59-32-image.png?msec=1719302372202)![](file://C:\Users\robin\AppData\Roaming\marktext\images\2024-06-25-10-00-26-image.png?msec=1719302426300)
 
