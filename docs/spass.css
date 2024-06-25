@@ -1,0 +1,76 @@
+*{
+    --alice-blue: #d8ebfdff;
+    --cornflower-blue: #7692ffff;
+    --persian-blue: #1c2dc4ff;
+    --yinmn-blue: #3d518cff;
+    --oxford-blue: #081236ff;
+    --border-radius: 5px;
+    --gap: 5em;
+}
+.container{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    column-gap: var(--gap);
+    row-gap: var(--gap);
+}
+.box{
+    background-color: var(--cornflower-blue);
+    text-align: center;
+    padding: 20px;
+    border-radius: var(--border-radius);
+}
+#TTS3geschrumpft{
+    transform: scale(0.5);
+}
+#TTS3gewachsen{
+    transform: scale(1.15);
+}
+#TTS3schmal{
+    transform: scaleX(0.6)
+}
+#TTS3breit{
+    transform: scaleX(1.2);
+}
+#TTS3schräg{
+    transform: skewX(-25deg);
+}
+#TTS3aufKopf{
+    transform: rotateZ(180deg);
+}
+#TTS3dickDünn{
+    animation-name: dickDünn;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-play-state: paused;
+}
+#TTS3dickDünn:hover{
+    animation-play-state: running;
+}
+#TTS3drehen{
+    animation-name: drehen;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-play-state: paused;
+}
+#TTS3drehen:hover{
+    animation-play-state: running;
+}
+#TTS3linksRechts{
+    margin: 40px;
+    animation-name: fahren;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 10;
+}
+@keyframes dickDünn{
+    50%{transform: scaleX(50%)}
+}
+@keyframes drehen{
+    to{transform: rotate(360deg)}
+}
+@keyframes fahren{
+    50%{transform: translateX(600%)}
+}

@@ -1,0 +1,84 @@
+*{
+    --alice-blue: #d8ebfdff;
+    --cornflower-blue: #7692ffff;
+    --persian-blue: #1c2dc4ff;
+    --yinmn-blue: #3d518cff;
+    --oxford-blue: #081236ff;
+}
+#titleSpieltagVideo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#linkNewsletter{
+    padding-bottom: 10px;
+}
+#linkTeam, #linkDegonda{
+    padding-top: 30px;
+}
+.linkOrt{
+    text-decoration: none;
+    color: blue;
+}
+.link{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+    display:block;
+}
+#link:hover{
+    text-decoration: underline;
+    color: rgb(111, 0, 255);
+}
+#titleTTS3{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+aside{
+    width: 25%;
+    height: 600px;
+    float: left;
+    padding: 10px 10px 30px 10px;
+}
+.AnstehendesListe{
+    padding-bottom: 40px;
+}
+#Anstehendes{
+    display: inline;
+    text-align: center;
+}
+section{
+    width: 45%;
+    height: 600px;
+    float: left;
+    background-color: var(--cornflower-blue);
+    padding: 10px 20px 30px 20px;
+}
+article{
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding: 10px 20px 30px 20px;
+}
+@media screen and (max-width: 900px){
+    aside{
+        height: auto;
+    }
+    aside, section, article{
+        width: 100%;
+        height: auto;
+    }
+    #titleTTS3{
+        width: 100%;
+    }
+    #titleSpieltagVideo{
+        width: 100%;
+        height: 300px;
+    }
+}
