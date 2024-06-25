@@ -153,6 +153,6 @@ Auf der "Powerchairhockey" Website gibt es eine navbar, die sich auf dem Handy s
 
 ✍️ Heute habe ich alle vier Unterseiten für meine Japan erkunden Website implementiert. Ich habe mit Flexbox verschiedene Boxen erstellt und diese responsive ans Handy angepasst. Da ich am Schluss noch etwas Zeit übrig hatte, habe ich ein wenig am Inhalt gearbeitet, damit ich sehen konnte, ob alles richtig implementiert wurde. (50 Wörter)
 
-## Reflexion
+# Reflexion
 
 Am Anfang habe ich viele Videos geschaut und diese umgesetzt. Zuerst habe ich eine Startseite und eine einfache navigationbar erstellt. Danach habe ich Hintergrundbilder und Dropdown Menüs angesehen. Im Anschluss habe ich Tabellen designt und gelernt, dass Emojis einfache Zeichen sind wie Buchstaben. Dann habe ich ein Formular erstellt und Google Maps Ansichten implementiert. Anschliessend habe ich eine Seitennummerierung erstellt, Quadrate mit Flexbox angeordnet und eine schöne Farbpalette für die Website ausgesucht. Zum Abschluss habe ich ein paar Transformations und Animations erstellt. In den letzten drei Mal habe ich ein Mockup und ein Pflichtenheft für eine Website über Japan erstellt. Danach habe ich die Startseite und anschliessend die einzelnen Unterseiten implementiert. (111 Wörter)
