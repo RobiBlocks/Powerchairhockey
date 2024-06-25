@@ -1,0 +1,24 @@
+*{
+    --alice-blue: #d8ebfdff;
+    --cornflower-blue: #7692ffff;
+    --persian-blue: #1c2dc4ff;
+    --yinmn-blue: #3d518cff;
+    --oxford-blue: #081236ff;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: 1000px;
+    background-color: var(--alice-blue);
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 50px;
+}
+.titelLiga{
+    text-align: left;
+}
+@media screen and (max-width: 900px){
+    section{
+        padding-left: 5%;
+    }
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(202, 100%, 70%);
+}
+#back{
+    color: black;
+    text-decoration: none;
+}
+#name, #email, #geburtstag, #newsletters, #kommentar{
+    display: block;
+    margin: 10px;
+}
+#resultate{
+    margin-bottom: 30px;
+}
+label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#labelSpieltage, #labelResultate{
+    font-weight: lighter;
+}
+p{
+    color: hsl(0, 100%, 40%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
