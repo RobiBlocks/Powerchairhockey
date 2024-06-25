@@ -8,7 +8,9 @@ Auf der "Powerchairhockey" Website gibt es eine navbar, die sich auf dem Handy s
 
 ![PowerchairhockeyWebsitegif](https://github.com/RobiBlocks/Lern-Periode-5/blob/main/Pictures/PowerchairhockeyWebsite.gif)
 
-![](file://C:\Users\robin\AppData\Roaming\marktext\images\2024-06-25-09-59-32-image.png?msec=1719302372202)![](file://C:\Users\robin\AppData\Roaming\marktext\images\2024-06-25-10-00-26-image.png?msec=1719302426300)
+![](https://github.com/RobiBlocks/Lern-Periode-5/blob/main/Pictures/Home.png)
+
+![](https://github.com/RobiBlocks/Lern-Periode-5/blob/main/Pictures/Teams.png)
 
 # Planung
 
